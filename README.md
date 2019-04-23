@@ -1,1 +1,1 @@
-<h1>Please report all bugs to skygenstudios20@gmail.com Thank you!</h1>
+<h1>Please report all bugs to <a href="skygenstudios20@gmail.com">skygenstudios20@gmail.com</a> Thank you!</h1>
